@@ -1,6 +1,7 @@
 # ChatGPT Clone with Google Gemini
 
-{{ THIS APP WAS VIBE_CODED in 15 mins!}}
+**THIS APP WAS VIBE_CODED in 15 MINS!
+
 A simple ChatGPT-like interface using PydanticAI and Google's Gemini LLM.
 
 ## Setup
