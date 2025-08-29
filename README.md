@@ -1,4 +1,4 @@
-# ChatGPT Clone with Google Gemini
+# ChatGPT Clone with Google Gemini (VIBE CODING)
 
 **THIS APP WAS VIBE_CODED in 15 MINS!
 
